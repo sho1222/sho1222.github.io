@@ -9,19 +9,5 @@
         "name": "shogo"
     },
     "items": [
-        {
-            "id": "https://sho1222.github.io/taitle.html",
-            "url": "https://sho1222.github.io/taitle.html",
-            "title": "taitle",
-            "summary": " aa ",
-            "content_html": "\n    <h2 id=\"aa\">\n      aa\n    </h2>\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "shogo"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-03-25T19:15:35+08:00",
-            "date_modified": "2021-03-25T19:15:35+08:00"
-        }
     ]
 }

@@ -3,37 +3,10 @@
     <title>shogo</title>
     <link href="https://sho1222.github.io/feed.xml" rel="self" />
     <link href="https://sho1222.github.io" />
-    <updated>2021-03-25T19:15:35+08:00</updated>
+    <updated>1970-01-01T07:30:00+07:30</updated>
     <author>
         <name>shogo</name>
     </author>
     <id>https://sho1222.github.io</id>
 
-    <entry>
-        <title>taitle</title>
-        <author>
-            <name>shogo</name>
-        </author>
-        <link href="https://sho1222.github.io/taitle.html"/>
-        <id>https://sho1222.github.io/taitle.html</id>
-
-        <updated>2021-03-25T19:15:35+08:00</updated>
-            <summary>
-                <![CDATA[
-                     aa 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <h2 id="aa">
-      aa
-    </h2>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
